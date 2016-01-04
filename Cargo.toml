@@ -1,0 +1,14 @@
+[package]
+name = "ogui"
+version = "0.1.0"
+authors = ["McCorney Severin <projects.mccorney@gmail.com>"]
+
+
+[lib]
+name = "ogui"
+path = "lib.rs"
+
+[[bin]]
+name = "ogui"
+path = "main.rs"
+
